@@ -13,4 +13,4 @@ A space where my thoughts, computer science and sports are living in harmony
 
 15/02/2025 [UFC Fight Night — Cannonier vs Rodrigues](https://medium.com/@andynk/ufc-fight-night-cannonier-vs-rodrigues-ee8a9f9ba671)
 
-05/12/2025 [Hawk-Eye — Pantoja vs Van (UFC 323)](https://medium.com/@andynk/hawk-eye-pantoja-vs-van-ufc-323-a30b7fefbb32)
+05/12/2025 [UFC 323 - Hawk-Eye — Pantoja vs Van](https://medium.com/@andynk/hawk-eye-pantoja-vs-van-ufc-323-a30b7fefbb32)
